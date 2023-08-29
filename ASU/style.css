@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.kat{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.footer{
+    position: relative;
+    left: 500px;
+    background-color: blue;
+    border-radius: 900px;
+    top: 120px;
+    font-size: 90px;
+    
+    
+}
+.footer:hover{
+    box-shadow: 700px;
+    background-color: black;
+
+}
